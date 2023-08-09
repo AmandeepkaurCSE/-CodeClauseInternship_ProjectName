@@ -1,4 +1,4 @@
-# CodeClause Internship Churn Prediction in Telecom Industry using Logistic Regression
+## CodeClause Internship Churn Prediction in Telecom Industry using Logistic Regression
 ### Data Preprocessing:
 Loaded necessary libraries and suppressed warnings.
 Loaded the dataset using pandas.
